@@ -10,5 +10,4 @@ class YoutubeUrlFormatter
       "https://www.youtube.com/embed/#{youtube_id_match[1]}"
     end
   end
-  # コミット実行のための記述
 end
